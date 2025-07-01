@@ -1,4 +1,4 @@
-# 🤖 TG Account Buyer Bot - Hausa Version
+# 🤖 BASH TGB HUB - Hausa Version
 
 Wannan bot ne da aka rubuta da Aiogram 3 domin sauƙaƙe karɓar Telegram accounts daga masu siyarwa, da kuma sarrafa bukatun cire kuɗi daga admin. Wannan version ɗin yana amfani da yaren Hausa kawai (za a iya faɗaɗa zuwa Turanci daga baya).
 
