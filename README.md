@@ -23,6 +23,7 @@ BOT_TOKEN=SAKA_TOKEN_DINKA ADMIN_ID=7958281142 CHANNEL_ID=-1002839743918 TIMEZON
 pip install -r requirements.txt
 python main.py
 
+---
 
 ## 🧾 Admin Commands
 
@@ -31,6 +32,5 @@ python main.py
 /mark_paid [user_id] [adadin]
 
 /completed_today_payment
-
 
 ---
