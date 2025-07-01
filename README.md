@@ -21,8 +21,8 @@ BOT_TOKEN=SAKA_TOKEN_DINKA ADMIN_ID=7958281142 CHANNEL_ID=-1002839743918 TIMEZON
 ## ▶️ Gudanar da Bot
 ```bash
 pip install -r requirements.txt
-```bash
 python main.py
+```bash
 
 ## 🧾 Admin Commands
 
