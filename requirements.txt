@@ -1,0 +1,4 @@
+aiogram
+apscheduler
+python-dotenv
+pytz
