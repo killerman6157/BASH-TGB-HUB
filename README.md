@@ -1,4 +1,4 @@
-# 🤖 BASH TGB HUB - Hausa Version
+# 🤖 TG Account Buyer Bot - Hausa Version
 
 Wannan bot ne da aka rubuta da Aiogram 3 domin sauƙaƙe karɓar Telegram accounts daga masu siyarwa, da kuma sarrafa bukatun cire kuɗi daga admin. Wannan version ɗin yana amfani da yaren Hausa kawai (za a iya faɗaɗa zuwa Turanci daga baya).
 
@@ -23,14 +23,13 @@ BOT_TOKEN=SAKA_TOKEN_DINKA ADMIN_ID=7958281142 CHANNEL_ID=-1002839743918 TIMEZON
 pip install -r requirements.txt
 python main.py
 
----
-
-## 🧾 Admin Commands
+🧾 Admin Commands
 
 /user_accounts [user_id]
 
 /mark_paid [user_id] [adadin]
 
 /completed_today_payment
+
 
 ---
