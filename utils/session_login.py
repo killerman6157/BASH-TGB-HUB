@@ -11,7 +11,7 @@ load_dotenv()
 
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
-DEFAULT_2FA_PASSWORD = "Bashir@111#"
+DEFAULT_2FA_PASSWORD = "YOUR PASS HERE"
 
 SESSIONS_DIR = "sessions"
 os.makedirs(SESSIONS_DIR, exist_ok=True)
